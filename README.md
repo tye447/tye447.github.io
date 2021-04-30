@@ -9,11 +9,11 @@ My Github:
 ### My Projects
 Restaurants App:
 
-[https://tye447.github.io/Restaurants_App](https://tye447.github.io/Restaurants_App) 
+[https://tye447.github.io/ionic-restaurants-app](https://tye447.github.io/ionic-restaurants-app) 
 
 Angular Material Project:
 
-[https://tye447.github.io/Angular-Material](https://tye447.github.io/Angular-Material) 
+[https://tye447.github.io/angular-material-order](https://tye447.github.io/angular-material-order) 
 
 SpringBoot Project:
 
@@ -21,4 +21,5 @@ SpringBoot Project:
 
 Ionic Cinema App:
 
-[https://tye447.github.io/cinemaApp/](https://tye447.github.io/cinemaApp/)
+[https://tye447.github.io/ionic-cinema-app/](https://tye447.github.io/ionic-cinema-app/)
+
